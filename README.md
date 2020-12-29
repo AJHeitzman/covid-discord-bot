@@ -1,6 +1,6 @@
 ![Open Issues](https://img.shields.io/github/issues/AJHeitzman/covid-discord-bot?logo=github) ![Forks](https://img.shields.io/github/forks/AJHeitzman/covid-discord-bot?logo=github) ![License](https://img.shields.io/github/license/AJHeitzman/covid-discord-bot?logo=github)
 
-![alt text](https://github.com/AJHeitzman/covid-discord-bot/blob/main/assets/images/readme_header_image.png?raw=true)
+![alt text](https://github.com/AJHeitzman/covid-discord-bot/blob/main/assets/images/readme_header.png?raw=true)
 
 ---
 
