@@ -1,3 +1,5 @@
 {
-    "discord_token": "<Enter your Discord token here>"
+    "discord_token": "<Enter your Discord Token Here>",
+    "discord_channel": "<Enter Discord Channel ID Here>",
+	"user_to_remind": "<Enter Discord User ID Here>" 
 }

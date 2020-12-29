@@ -16,7 +16,7 @@ const client = new Discord.Client();
 client.on('ready', () => {
  console.log(`Logged in as ${client.user.tag}!`);
  
-    let user = client.users.fetch("95978871349850112");
+    let user = client.users.fetch(config.user_to_remind);
     let statusUser = client.user.presence.status;
     console.log(statusUser);
 
@@ -25,10 +25,10 @@ client.on('ready', () => {
 client.on('presenceUpdate',(oldPresence,newPresence) => {
     let member = newPresence.member;
     // User id of the user you're tracking status.
-    if (member.id === '95978871349850112') {
+    if (member.id === config.user_to_remind) {
         if (oldPresence.status !== newPresence.status) {
             // Your specific channel to send a message in.
-            let channel = member.guild.channels.cache.get('353406837476818954');
+            let channel = member.guild.channels.cache.get(config.discord_channel);
             // You can also use member.guild.channels.resolve('<channelId>');
 
             let text = "";
