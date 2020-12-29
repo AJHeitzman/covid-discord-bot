@@ -3,3 +3,5 @@
 ![alt text](https://github.com/AJHeitzman/covid-discord-bot/blob/main/assets/images/readme_header_image.jpg?raw=true)
 
 Discord bot designed to display COVID-19 updates from credible sources.
+
+THIS IS STILL A WORK IN PROGRESS
