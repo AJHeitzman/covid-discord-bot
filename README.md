@@ -14,7 +14,7 @@ This project was created with:
 * NPM v6.14.9
 * Nodemon v2.0.6
 * Chrome Node DevTools `chrome://inspect/`
-* [discord.js](https://discord.js.org/#/) v12.5.1 
+* [![discord.js](https://img.shields.io/badge/discord.js-v12.5.1-blueviolet)](https://discord.js.org)
 
 ## Installation & Setup
 
