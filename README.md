@@ -9,12 +9,12 @@ A Discord bot designed to display COVID-19 updates from credible sources.
 
 ### Technologies
 This project was created with:
-* Visual Studio Code v1.52.1
-* Node.js v14.15.3
-* NPM v6.14.9
-* Nodemon v2.0.6
+* [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-v1.52.1-blueviolet?logo=visual-studio-code)](https://code.visualstudio.com/Download)
+* [![node.js](https://img.shields.io/badge/node.js-v14.15.3-blueviolet?logo=node.js)](https://nodejs.org/en/)
+* [![NPM](https://img.shields.io/badge/NPM-v6.14.9-blueviolet?logo=npm)](https://www.npmjs.com/)
+* [![Nodemon](https://img.shields.io/badge/Nodemon-v2.0.6-blueviolet?logo=nodemon)](https://nodemon.io/)
 * Chrome Node DevTools `chrome://inspect/`
-* [![discord.js](https://img.shields.io/badge/discord.js-v12.5.1-blueviolet)](https://discord.js.org)
+* [![discord.js](https://img.shields.io/badge/discord.js-v12.5.1-blueviolet?logo=javascript)](https://discord.js.org)
 
 ## Installation & Setup
 
