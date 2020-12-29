@@ -1,4 +1,4 @@
-![Open Issues](https://img.shields.io/github/issues/AJHeitzman/covid-discord-bot) ![Forks](https://img.shields.io/github/forks/AJHeitzman/covid-discord-bot) ![License](https://img.shields.io/github/license/AJHeitzman/covid-discord-bot)
+![Open Issues](https://img.shields.io/github/issues/AJHeitzman/covid-discord-bot?logo=github) ![Forks](https://img.shields.io/github/forks/AJHeitzman/covid-discord-bot?logo=github) ![License](https://img.shields.io/github/license/AJHeitzman/covid-discord-bot?logo=github)
 
 ![alt text](https://github.com/AJHeitzman/covid-discord-bot/blob/main/assets/images/readme_header_image.png?raw=true)
 
@@ -10,11 +10,11 @@ A Discord bot designed to display COVID-19 updates from credible sources.
 ### Technologies
 This project was created with:
 * [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-v1.52.1-blueviolet?logo=visual-studio-code)](https://code.visualstudio.com/Download)
-* [![node.js](https://img.shields.io/badge/node.js-v14.15.3-blueviolet?logo=node.js)](https://nodejs.org/en/)
+* [![node.js](https://img.shields.io/badge/Node.js-v14.15.3-blueviolet?logo=node.js)](https://nodejs.org/en/)
 * [![NPM](https://img.shields.io/badge/NPM-v6.14.9-blueviolet?logo=npm)](https://www.npmjs.com/)
 * [![Nodemon](https://img.shields.io/badge/Nodemon-v2.0.6-blueviolet?logo=nodemon)](https://nodemon.io/)
-* Chrome Node DevTools `chrome://inspect/`
-* [![discord.js](https://img.shields.io/badge/discord.js-v12.5.1-blueviolet?logo=javascript)](https://discord.js.org)
+* [![ChromeDevTools](https://img.shields.io/badge/Chrome_DevTools-v87.0.4280.88-blueviolet?logo=google-chrome)](https://developers.google.com/web/tools/chrome-devtools/)
+* [![discord.js](https://img.shields.io/badge/Discord.js-v12.5.1-blueviolet?logo=javascript)](https://discord.js.org)
 
 ## Installation & Setup
 
