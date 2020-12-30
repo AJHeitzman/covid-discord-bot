@@ -3,6 +3,7 @@
 LINKS: 
     * https://www.howtogeek.com/364225/how-to-make-your-own-discord-bot/
     * https://discord.js.org/#/docs/main/stable/class/Presence
+    * https://discordjs.guide/additional-info/rest-api.html#random-cat
 
 NOTES: 
     * Run nodemon --inspect index.js
